@@ -1,5 +1,6 @@
 # CurrentMaps
-**The Folowing examples were taken from : https://docs.circuitscape.org/Circuitscape.jl/latest/options/
+**The Folowing examples were taken from : https://docs.circuitscape.org/Circuitscape.jl/latest/options
+
 Your Raster Map should be in .asc format and same as below (Heading should be the same too):
 ncols         10
 nrows         10
